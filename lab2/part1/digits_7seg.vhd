@@ -1,6 +1,4 @@
--- DESCRIPTION: 7-segment digits decoder
--- AUTHOR: Jonathan Primeau
---
+
 --  c3 c2 c1 c0 | digit     0
 -- -------------|------   5   1
 --   0  0  0  0 |  0        6
